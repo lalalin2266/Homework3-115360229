@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\winni\OneDrive\Desktop\source\Homework3\Homework3 P18\Homework3 P18\main.c(16,11): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\winni\OneDrive\Desktop\source\Homework3\Homework3 P18\Homework3 P18\main.c(20,5): warning C4098: 'main': 'void' 函式正在傳回值
+  Homework3 P18.vcxproj -> C:\Users\winni\OneDrive\Desktop\source\Homework3\Homework3 P18\x64\Debug\Homework3 P18.exe
